@@ -1,0 +1,13 @@
+dist/
+build/
+*.egg-info/
+__pycache__/
+*.pyc
+.venv/
+cryptian         # (the PyInstaller binary, if present)
+buildss.sh
+setup.py
+build_win.py
+cryptian.spec
+pyproject.toml
+git.sh

@@ -1,0 +1,5 @@
+cryptography==39.0.1
+rich==12.6.0
+pycryptodome==3.14.1
+bcrypt==3.2.0
+prompt_toolkit==3.0.51
